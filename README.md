@@ -3,7 +3,7 @@ Hi! My name is Alexander, and this is my github.
 
 # 💫 About Me:
 - 🔭 I’m currently working on ***GPT**
-- 📚 I'm studying **ITMO University**
+- 📚 I'm studying at **ITMO University**
 - 📫 How to reach me **a@scorblack.ru**
 
 
