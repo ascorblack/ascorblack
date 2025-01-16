@@ -4,7 +4,7 @@ Hi! My name is Alexander, and this is my github.
 # 💫 About Me:
 - 🔭 I’m currently working on ***GPT**
 - 📚 I'm studying at **ITMO University**
-- 📫 How to reach me **a@scorblack.ru**
+- 📫 How to reach me **tg: @notsoulmate** or **a@scorblack.ru**
 
 
 # 💻 Tech Stack:
