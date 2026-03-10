@@ -3,13 +3,15 @@
 Senior AI Systems Engineer specializing in LLM agent orchestration,
 RAG pipelines and high-load Python microservices.
 
-🔭 Currently building **Protocore** — protocol-first orchestration core for small LLM models:
-   immutable loop, strict contracts, safe tool runtime, subagent strategies
-   (LEADER / AUTO_SELECT / PARALLEL / BYPASS), token guardrails and event-first observability.
-   Library, not a platform — you embed it into your own API.
-🛠 **Stack:** Python · FastAPI · Qwen3-3.5/Mistral · OpenAI-compatible API · vLLM · RabbitMQ ·
-   Elasticsearch · Redis · Docker
+🔭 **Currently building Protocore** — protocol-first orchestration core for small LLM models:  
+immutable loop, strict contracts, safe tool runtime, subagent strategies  
+(LEADER / AUTO_SELECT / PARALLEL / BYPASS), token guardrails and event-first observability.  
+Library, not a platform — you embed it into your own API.
+
+🛠 **Stack:** Python · FastAPI · Qwen3-3.5/Mistral · OpenAI-compatible API · vLLM · RabbitMQ · Elasticsearch · Redis · Docker
+
 📍 Saint Petersburg, Russia
+
 📫 Telegram: @notsoulmate · a@scorblack.ru
 
 ---
