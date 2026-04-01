@@ -14,6 +14,11 @@ Library, not a platform — you embed it into your own API.
 
 📫 Telegram: @notsoulmate · a@scorblack.ru
 
+
+## My CC /buddy
+
+![Snafu](./buddy.svg)
+
 ---
 
 # 💻 Tech Stack:
