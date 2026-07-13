@@ -14,6 +14,8 @@ Library, not a platform — you embed it into your own API.
 
 📫 Telegram: @notsoulmate · a@scorblack.ru
 
+🌐 Site: [ascorblack.com](https://ascorblack.com)
+
 
 ## My CC /buddy
 
