@@ -1,4 +1,4 @@
-### Hi, I'm Alexander 👋
+### Hi, I'm Aleksandr 👋
 
 Senior AI Systems Engineer specializing in LLM agent orchestration,
 RAG pipelines and high-load Python microservices.
@@ -10,9 +10,11 @@ Library, not a platform — you embed it into your own API.
 
 🛠 **Stack:** Python · FastAPI · Qwen3-3.5/Mistral · OpenAI-compatible API · vLLM · RabbitMQ · Elasticsearch · Redis · Docker
 
-📍 Saint Petersburg, Russia
+📍 Astana, Kazakhstan
 
-📫 Telegram: @notsoulmate · a@scorblack.ru
+💬 Telegram: [@notsoulmate](https://t.me/notsoulmate)
+
+📫 Email: ascorblack@gmail.com · a@scorblack.ru
 
 🌐 Site: [ascorblack.com](https://ascorblack.com)
 
