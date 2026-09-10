@@ -1,20 +1,35 @@
 ### Hi, I'm Aleksandr 👋
 
-Senior AI Systems Engineer specializing in LLM agent orchestration,
-RAG pipelines and high-load Python microservices.
+AI Systems Engineer · LLM Agent Architect. I build production systems around LLMs —
+RAG services, agent orchestration, semantic search, self-hosted inference — under real
+latency and cost constraints, and I run them in production.
 
-🔭 **Building [Protocore](https://github.com/ascorblack-labs/protocore-community)** — a protocol-first agent
-runtime for small, self-hosted LLMs. The loop, the context budget, the tool surface, the compaction and the
-stop conditions; `direct` and `deep` run strategies, delegation with real width and depth budgets, snapshot
-and resume. A library, not a platform — you embed it in your own API.
+🔭 **Building [Protocore](https://protocore.ascorblack.com)** — a protocol-first agent
+runtime for small, self-hosted LLMs. The loop, the context budget, the tool surface, the
+compaction and the stop conditions; `direct` and `deep` run strategies, delegation with real
+width and depth budgets, snapshot and resume. A library, not a platform — you embed it in
+your own API. The platform on top of it (enterprise backend, sandbox, chat, dashboard,
+dynamic tools over MCP, `proto` terminal client) is proprietary and runs on my own
+GitLab / Harbor / k3s.
 
 📖 **The core is open source** under MPL-2.0 →
 [`ascorblack-labs/protocore-community`](https://github.com/ascorblack-labs/protocore-community) ·
-`pip install protocore==2.0.0a2`.
-Zero upward imports, no database driver, no HTTP endpoint — everything outward-facing is a `Protocol` you
-implement. 2 964 tests, 90% branch coverage, strict typing, gated on Python 3.12 / 3.13 / 3.14.
+`pip install protocore==2.0.0a4`.
+Zero upward imports, no database driver, no HTTP endpoint — everything outward-facing is a
+`Protocol` you implement. 3 200+ tests, 90% branch coverage enforced, strict typing, gated on
+Python 3.12 / 3.13 / 3.14.
 
-🛠 **Stack:** Python · FastAPI · Pydantic v2 · Qwen · vLLM · OpenAI-compatible API · Postgres · Redis · RabbitMQ · Elasticsearch · Docker · Kubernetes
+🤖 **[Daedalus](https://github.com/ascorblack/daedalus)** — a personal self-developing agent
+on that core: lives in Telegram and its own PWA, runs in a Linux container with real tools,
+and changes its own code through pull requests approved from the chat. MIT.
+
+🧰 Smaller tools for agent workflows:
+[`ai-audit-kit`](https://github.com/ascorblack/ai-audit-kit) ·
+[`kb-genesis`](https://github.com/ascorblack/kb-genesis) ·
+[`notify-telegram-cli`](https://github.com/ascorblack/notify-telegram-cli) ·
+[`swiftclf-tuna-research`](https://github.com/ascorblack/swiftclf-tuna-research)
+
+🛠 **Stack:** Python · FastAPI · Pydantic v2 · asyncio · vLLM · OpenAI-compatible APIs · Elasticsearch / OpenSearch · Postgres · Redis · RabbitMQ · Docker · Kubernetes / Helm · gVisor · Next.js / React
 
 📍 Astana, Kazakhstan
 
@@ -22,7 +37,7 @@ implement. 2 964 tests, 90% branch coverage, strict typing, gated on Python 3.12
 
 📫 Email: ascorblack@gmail.com · a@scorblack.ru
 
-🌐 Site: [ascorblack.com](https://ascorblack.com)
+🌐 Site & resume: [ascorblack.com](https://ascorblack.com) · [ascorblack.com/resume](https://ascorblack.com/resume)
 
 
 ## My CC /buddy
