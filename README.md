@@ -4,7 +4,7 @@ AI Systems Engineer · LLM Agent Architect. I build production systems around LL
 RAG services, agent orchestration, semantic search, self-hosted inference — under real
 latency and cost constraints, and I run them in production.
 
-🔭 **Building [Protocore](https://protocore.ascorblack.com)** — a protocol-first agent
+🔭 **Building [Protocore](https://protocore.anchorinference.com)** — a protocol-first agent
 runtime for small, self-hosted LLMs. The loop, the context budget, the tool surface, the
 compaction and the stop conditions; `direct` and `deep` run strategies, delegation with real
 width and depth budgets, snapshot and resume. A library, not a platform — you embed it in
@@ -13,13 +13,13 @@ dynamic tools over MCP, `proto` terminal client) is proprietary and runs on my o
 GitLab / Harbor / k3s.
 
 📖 **The core is open source** under MPL-2.0 →
-[`ascorblack-labs/protocore-community`](https://github.com/ascorblack-labs/protocore-community) ·
-`pip install protocore==2.0.0a4`.
+[`anchor-inference/protocore`](https://github.com/anchor-inference/protocore) ·
+`pip install protocore==2.0.0a23`.
 Zero upward imports, no database driver, no HTTP endpoint — everything outward-facing is a
 `Protocol` you implement. 3 200+ tests, 90% branch coverage enforced, strict typing, gated on
 Python 3.12 / 3.13 / 3.14.
 
-🤖 **[Daedalus](https://github.com/ascorblack/daedalus)** — a personal self-developing agent
+🤖 **[Daedalus](https://github.com/anchor-inference/daedalus)** — a personal self-developing agent
 on that core: lives in Telegram and its own PWA, runs in a Linux container with real tools,
 and changes its own code through pull requests approved from the chat. MIT.
 
