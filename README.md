@@ -14,14 +14,17 @@ GitLab / Harbor / k3s.
 
 📖 **The core is open source** under MPL-2.0 →
 [`anchor-inference/protocore`](https://github.com/anchor-inference/protocore) ·
-`pip install protocore==2.0.0a23`.
+`pip install protocore==2.0.0a25`.
 Zero upward imports, no database driver, no HTTP endpoint — everything outward-facing is a
 `Protocol` you implement. 3 200+ tests, 90% branch coverage enforced, strict typing, gated on
 Python 3.12 / 3.13 / 3.14.
 
 🤖 **[Daedalus](https://github.com/anchor-inference/daedalus)** — a personal self-developing agent
-on that core: lives in Telegram and its own PWA, runs in a Linux container with real tools,
-and changes its own code through pull requests approved from the chat. MIT.
+on that core: its own app window on macOS, Linux and Windows, a web app on your phone and
+Telegram if you want it; real tools, projects run by an orchestrated team of subagents, and
+changes to its own code as pull requests you approve. MIT ·
+[daedalus.anchorinference.com](https://daedalus.anchorinference.com/en/) · 3-minute film:
+[English](https://www.youtube.com/watch?v=z5rGA8SNroU) / [Russian](https://www.youtube.com/watch?v=IViNxnRmwkc).
 
 🧰 Smaller tools for agent workflows:
 [`ai-audit-kit`](https://github.com/ascorblack/ai-audit-kit) ·
